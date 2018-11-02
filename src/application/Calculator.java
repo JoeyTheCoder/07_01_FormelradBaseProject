@@ -48,8 +48,11 @@ public class Calculator {
 		 * welche Methode unten aufgerufen werden muss.
 		 */
 	}
+	public static void feature1(){
+	    int dummy = 0;
+    }
 	
-	/* Hier die Methoden mit den Formlen hinzufügen
+	/* Hier die Methoden mit den Formlen hinzufï¿½gen
 	 */
 	
 }
